@@ -1,6 +1,6 @@
 const APP_SHELL = [
     //"/",
-    "home.html",
+    "index.html",
     "css/style.css",
     "img/logo.png",
     "js/init.js",
